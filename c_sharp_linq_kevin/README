@@ -1,0 +1,5 @@
+Solution done by Kevin later that day during CodeMash
+Written in C# using Linq for most of the work
+Was much cleaner until I (Ben) pointed out that he forgot the header row in the output
+
+slightly edited from: http://bitbucket.org/kberridge/stoutsystemschallenge/
