@@ -1,7 +1,7 @@
 output = ""
 output2 = []
 
-File.open("Input.txt") { |file| 
+File.open("../input.txt") { |file| 
  header = file.gets
  
  output += header
