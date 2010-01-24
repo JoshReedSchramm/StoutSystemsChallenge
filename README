@@ -1,0 +1,14 @@
+At CodeMash StoutSystems offered up a fast programming contest during the vendor sessions slot.
+First team to upload a correct output file won.  We won. :-)
+
+This repository holds our winning solution (~7 minutes) hacked together in Ruby on Josh's MBP in TextMate 
+along with the given input file (input.txt) and a sample output file that we won with (output.txt).
+
+All other solutions are other attempts done by myself or others to practice and compare approaches and languages.
+
+Rules
+* read file (header row + lines, tab delimited)
+* output data to a new file in same format preserving the header row
+* remove any non alpha characters from the last name column and reverse the text
+* remove any lines where the last name column is blank
+* sort in ascending order by last name column then by the magic number column (as a number, not a string)

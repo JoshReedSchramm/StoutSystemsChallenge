@@ -1,6 +1,0 @@
-# Rules
-# read file (header row + lines, tab delimited)
-# output data to a new file in same format preserving the header row
-# remove any non alpha characters from the last name column and reverse the text
-# remove any lines where the last name column is blank
-# sort in ascending order by last name column then by the magic number column (as a number, not a string)
